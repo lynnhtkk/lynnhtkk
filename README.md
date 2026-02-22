@@ -1,4 +1,5 @@
-### Hallo 👋
+### Hey, there... 👋
 
-- 🌱 I’m currently studying: Information Engineering at TUM Campus Heilbronn
-- 📫 How to reach me: h.nyinyilinn\[at\]gmail\[dot\]com
+- 👨🏻‍💻 My name is: Nyi Nyi Linn Htet. 
+- 🌱 I’m currently studying: Bachelor of Information Engineering at TUM Campus Heilbronn
+- 📫 How to reach me: h.nyinyilinn@gmail.com
